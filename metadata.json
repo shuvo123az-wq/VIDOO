@@ -1,0 +1,6 @@
+{
+  "name": "VIDOO",
+  "description": "Watch. Share. Connect. — Next-generation social media and video-sharing platform featuring Shorts, Long Videos, Creator Studio, Vidoo Coins rewards, Messaging, and Admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

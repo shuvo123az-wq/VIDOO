@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VIDOO</string>
+    <string name="app_tagline">Watch. Share. Connect.</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_shorts">Shorts</string>
+    <string name="nav_create">Create</string>
+    <string name="nav_notifications">Alerts</string>
+    <string name="nav_profile">Profile</string>
+    <string name="search_placeholder">Search users, creators, videos, #hashtags…</string>
+    <string name="coins_disclaimer">VIDOO COINS are virtual platform points for in-app engagement and are not real currency.</string>
+    <string name="privacy_policy_url">https://vidoo.app/legal/privacy-policy</string>
+    <string name="terms_of_service_url">https://vidoo.app/legal/terms-of-service</string>
+    <string name="community_guidelines_url">https://vidoo.app/legal/community-guidelines</string>
+    <string name="copyright_policy_url">https://vidoo.app/legal/copyright-policy</string>
+    <string name="account_deletion_url">https://vidoo.app/account/delete-request</string>
+</resources>
